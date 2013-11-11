@@ -11,6 +11,6 @@ Place grget somewhere on your computer and add it to your PATH. Make sure you ha
 
 ## Usage
 
-  grget -d ~/Desktop tabule/sherlock
+    grget -d ~/Desktop tabule/sherlock
 
 This will fetch the latest version of [Sherlock](https://github.com/Tabule/Sherlock) and place it on your Desktop. Try `grget -h` for more detailed usage instructions.
